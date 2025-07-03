@@ -2,7 +2,7 @@
   <img src="bio.jpg" alt="ZHANHONG PHOTO" style="width: 240px; height: 240px; border-radius: 50%; object-fit: cover; border: 3px solid #333; margin-right: 1rem;">
   <div>
     <h1 style="margin: 0;">ZHANHONG SU</h1>
-    <p style="margin: 0.5rem 0; color: #555;">???????????????????????????</p>
+    <p style="margin: 0.5rem 0; color: #555;">注册临床心理咨询师</p>
     <p style="margin: 0; font-size: 0.9rem;">
       <a href="mailto:zhanhongsucounselling@outlook.com">zhanhongsucounselling@outlook.com</a> | 
       <a href="https://www.linkedin.com/in/viola-su-b67143166/">??????</a> 
