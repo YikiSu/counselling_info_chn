@@ -2,5 +2,10 @@ theme: jekyll-theme-cayman
 # theme: jekyll-theme-minimal
 title: ZHANHONG SU RESUME
 description: This is the resume page for registered clinical counsellor Zhanhong (Viola) Su.
+# Set UTF-8 encoding
+encoding: UTF-8
+
+# Language settings (optional)
+language: zh-CN
 plugins:
   - jekyll-optional-front-matter
